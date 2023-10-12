@@ -1,0 +1,5 @@
+def ishu():
+    print('lodaaaa')
+
+
+   
